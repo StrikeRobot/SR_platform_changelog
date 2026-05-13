@@ -23,7 +23,7 @@
 
 * Reviewed 4 pull requests.
 * Improved the UI based on the Figma design.
-* Added list, import, and environment loading features.
+* Added environment list, import, and load features.
 * Added generation model selection and updated model parameters across generate endpoints.
 
 **Todo:**
