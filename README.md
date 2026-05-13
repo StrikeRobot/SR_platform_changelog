@@ -2,17 +2,18 @@
 
 ## [2026-05-13]
 
-**Member: A**
+**Member: Nguyen Thanh Tuyen**
 
 **Done:**
 
-* Optimized RL policy training duration to 1.5 hours in Isaac Lab.
-* Configured GPU time-slicing for vLLM instances on Kubernetes.
-* Finalized x402 protocol integration for StrikeRobot payments.
+* Researched and proposed load testing strategy for AES using k6.
+* Identified key bottlenecks, monitoring metrics, and scaling configurations.
+* Evaluated server providers for stress test, staging, and production environments.
 
 **Todo:**
-* Test G1 locomotion stability on physical hardware.
-* Review invitations for the NUS Agentics Symposium.
+* Set up staging VPS and monitoring stack (InfluxDB + Grafana).
+* Prepare k6 load/stress test scenarios and dashboard structure.
+* Implement MockProvider integration for LLM stress testing.
 
 ---
 
