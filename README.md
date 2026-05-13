@@ -17,15 +17,22 @@
 
 ---
 
-**Member: B**
+**Member: Truong Thanh Thang**
 
 **Done:**
 
-* Scaled and validated STL meshes for MuJoCo simulation.
-* Resolved mechanical load issues for the 4-DOF mini quadruped.
+* Reviewed 4 pull requests.
+* Improved the UI based on the Figma design.
+* Added list, import, and environment loading features.
+* Added generation model selection and updated model parameters across generate endpoints.
 
 **Todo:**
-* Calibrate IMU sensors for G1 high-speed walking.
+
+* Review pull requests.
+* Update feedback handling when users hit the rate limit.
+* Add an option to use the user's prompt directly.
+* Fix the bug where clicking an object tag does not highlight the object, unlike right-clicking the object in the scene.
+* Continue improving the UI.
 
 ---
 
