@@ -2,6 +2,17 @@
 
 ## [2026-05-13]
 
+**Member: Nguyen Phuc Toan**
+
+**Done:**
+
+* Fit response brainstorm agent with user language
+* Fix error token monitor
+**Todo:**
+* Fix Error Crash Fonted when large scene (Backend Scale).
+
+---
+
 **Member: Nguyen Thanh Tuyen**
 
 **Done:**
