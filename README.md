@@ -8,6 +8,7 @@
 
 * Fit response brainstorm agent with user language
 * Fix error token monitor
+
 **Todo:**
 * Fix Error Crash Fonted when large scene (Backend Scale).
 
@@ -59,12 +60,24 @@
 
 * Fixed the bug where there are mismatchs between how FE and BE store scene causing objects Z-coordinate to unexpectedly change when choosing robot
 
-* 
-
 **Todo:**
 * Find a way to ultilize 16k asset dataset without overloading front-end (pagination, keyword search, semantic search)
 
 * Add time estimating feature to time-taking feature like generate
+
+---
+
+## [2026-05-14]
+
+**Member: Nguyen Thanh Tuyen**
+
+**Done:**
+
+* Completed planning and research for AES load/stress testing strategy.
+
+**Todo:**
+* Develop asset import feature.
+* Develop robot import feature.
 
 ---
 
