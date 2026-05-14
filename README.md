@@ -47,15 +47,24 @@
 
 ---
 
-**Member: C**
+**Member: Le Minh Duc**
 
 **Done:**
 
-* Updated Jinja2 templates for Celery task deployment.
-* Fixed endpoint configuration for the local LLM server.
+* Added usage quota feature, limiting how many LLM apis call a user can make a day
+
+* Converted existing RESTful asset generate endpoints to ws, added JWT as requirements in request body of 2 main generate endpoints, Added kill process feature endpoint
+
+* Added venice as provider in monitor feature, added more tracking to monitor feature: agent, model name
+
+* Fixed the bug where there are mismatchs between how FE and BE store scene causing objects Z-coordinate to unexpectedly change when choosing robot
+
+* 
 
 **Todo:**
-* Monitor telemetry data through the Mac mini gateway.
+* Find a way to ultilize 16k asset dataset without overloading front-end (pagination, keyword search, semantic search)
+
+* Add time estimating feature to time-taking feature like generate
 
 ---
 
