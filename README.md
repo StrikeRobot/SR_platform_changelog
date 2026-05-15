@@ -10,6 +10,7 @@
 * Fix error token monitor
 
 **Todo:**
+
 * Fix Error Crash Fonted when large scene (Backend Scale).
 
 ---
@@ -23,6 +24,7 @@
 * Evaluated server providers for stress test, staging, and production environments.
 
 **Todo:**
+
 * Set up staging VPS and monitoring stack (InfluxDB + Grafana).
 * Prepare k6 load/stress test scenarios and dashboard structure.
 * Implement MockProvider integration for LLM stress testing.
@@ -76,8 +78,21 @@
 * Completed planning and research for AES load/stress testing strategy.
 
 **Todo:**
+
 * Develop asset import feature.
 * Develop robot import feature.
+
+---
+
+## [2026-05-15]
+
+**Member: Nguyen Thanh Tuyen**
+
+**Done:**
+
+* Completed develop import asset and import robot
+* Show list private robot and asset per user
+* Check merge conflict from develop and push new branch import-robot-asset
 
 ---
 
