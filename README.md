@@ -82,6 +82,20 @@
 * Develop asset import feature.
 * Develop robot import feature.
 
+**Member: Le Minh Duc**
+
+**Done:**
+
+* Planned and discussed with co-workers, tech lead about the estimation feature
+* Upserted 16k assets dataset into a new branch, tested the new cache hit with that bigger dataset, tested the compatibility of the dataset with the app
+* Fixed the bug where all objects whose the same parent id got collapsed into each other
+* Tested the webapp end-to-end to address any leftover bugs
+
+**Todo:**
+
+* Implement time-estimation feature for asset generation and layout generation
+* Further test the compatibility of the 16k dataset, propose a more robust data transformation pipeline for the 16k feature (the orientation of some objects in it is not upright)
+
 ---
 
 ## [2026-05-15]
@@ -94,5 +108,17 @@
 * Show list private robot and asset per user
 * Check merge conflict from develop and push new branch import-robot-asset
 
+**Member: Le Minh Duc**
+
+**Done:**
+
+* Further tested the 16k dataset e2e with layout generation
+* Proposed and implemented an improvement to the orchestrator agent
+
+**Todo:**
+
+* Implement time-estimation feature for asset generation and layout generation
+* Further test the compatibility of the 16k dataset, propose a more robust data transformation pipeline for the 16k feature (the orientation of some objects in it is not upright)
+* Improve orchestrator agent
 ---
 
