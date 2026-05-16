@@ -122,3 +122,11 @@
 * Improve orchestrator agent
 ---
 
+## [2026-05-16]
+
+**Member: Nguyen Phuc Toan**
+
+**Done:**
+
+* Backend Decode Prompt User
+* Outputs newly generated assets when a scene is created. 
